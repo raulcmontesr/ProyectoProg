@@ -1,0 +1,101 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\csc.exe
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\vbc.exe
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\WebFacturaMvc.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Mvc.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Razor.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\WebFacturaMvc.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Mvc.xml
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Razor.xml
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.xml
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\csc.exe
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\vbc.exe
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\WebFacturaMvc.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\EntityFramework.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Mvc.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Razor.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\WebFacturaMvc.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\WebFacturaMvc.dll.config
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\EntityFramework.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Mvc.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.Razor.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb

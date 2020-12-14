@@ -1,0 +1,24 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Dao.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Dao.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb

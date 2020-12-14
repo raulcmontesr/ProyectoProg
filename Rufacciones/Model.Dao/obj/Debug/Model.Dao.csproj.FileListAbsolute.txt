@@ -1,0 +1,54 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\SEGURAW10\Downloads\FACTURA_JHONNYv2\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\juanm\Documents\ITNL\9no\Prgramacion Avanzada\ProyectoFinal\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Administrador\Downloads\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csprojAssemblyReference.cache
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.csproj.CopyComplete
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\catte\Desktop\Pos Plain\Pos_Pain\Model.Dao\obj\Debug\Model.Dao.pdb
